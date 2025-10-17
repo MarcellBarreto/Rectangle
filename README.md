@@ -32,5 +32,3 @@ This program calculates the area, perimeter, and diagonal of a rectangle based o
    - Area
    - Perimeter  
    - Diagonal
-
-## Example Output
